@@ -11,5 +11,7 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
 01. Introdução
 02. Classes
 03. Objetos
+04. Funções Membro
+05. Construtores e Destrutores
 
 O material do curso está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir.
