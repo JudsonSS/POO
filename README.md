@@ -14,5 +14,6 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
 04. Funções Membro
 05. Construtores 
 06. Destrutores
+07. O Ponteiro this
 
 O material do curso está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir.
