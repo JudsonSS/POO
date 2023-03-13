@@ -18,5 +18,12 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
   06. Destrutores
   07. O Ponteiro this
   08. Tipos Abstratos de Dados
+  
+#### Capítulo 02
+
+  09. Sobrecarga de Operadores
+  10. Funções Amigas
+  11. ...
+  12. ...
 
 O material do curso está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir.
