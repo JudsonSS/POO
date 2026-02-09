@@ -26,4 +26,8 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
   11. Projetando Classes
   12. Conversões de Tipos
 
+#### Capítulo 03
+
+  13. Organização de Código
+
 O material do curso está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir.
