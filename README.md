@@ -29,5 +29,6 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
 #### Capítulo 03
 
   13. Organização de Código
+  14. Namespaces
 
 O material do curso está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir.
