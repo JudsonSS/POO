@@ -13,7 +13,7 @@ String::String(const char txt[])
     str = new char[tam + 1];
     strcpy(str, txt);
     objs++;
-    cout << "| Objeto (" << objs << ") criado: \"" << txt << "\"\n";
+    cout << "| Objeto (" << objs << ") criado: \"" << str << "\"\n";
 }
 
 // construtor padrão
