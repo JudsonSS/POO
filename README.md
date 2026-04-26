@@ -23,7 +23,7 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
 
   09. Sobrecarga de Operadores
   10. Funções Amigas
-  11. Projetando Classes
+  11. Projeto de Classes
   12. Conversões de Tipos
 
 #### Capítulo 03
