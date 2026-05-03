@@ -33,5 +33,6 @@ A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Sli
   15. Alocação Dinâmica
   16. Construtor de Cópia
   17. Operador de Atribuição
+  18. Projeto de Strings
 
 O material do curso está em constante evolução. Se tiverem sugestões de melhoria fiquem a vontade para contribuir.
